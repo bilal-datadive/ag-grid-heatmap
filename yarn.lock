@@ -918,9 +918,9 @@ dom-align@^1.7.0:
   integrity sha512-R8LUSEay/68zE5c8/3BDxiTEvgb4xZTF0RKmAHfiEVN3klfIpXfi2/QCoiWPccVQ0J/ZGdz9OjzL4uJEP/MRAw==
 
 electron-to-chromium@^1.4.477:
-  version "1.4.492"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.492.tgz#83fed8beb64ec60578069e15dddd17b13a77ca56"
-  integrity sha512-36K9b/6skMVwAIEsC7GiQ8I8N3soCALVSHqWHzNDtGemAcI9Xu8hP02cywWM0A794rTHm0b0zHPeLJHtgFVamQ==
+  version "1.4.494"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.494.tgz#588f7a3d19d32a31f3a7e05d81b61d95d25b1555"
+  integrity sha512-KF7wtsFFDu4ws1ZsSOt4pdmO1yWVNWCFtijVYZPUeW4SV7/hy/AESjLn/+qIWgq7mHscNOKAwN5AIM1+YAy+Ww==
 
 emoji-regex@^9.2.2:
   version "9.2.2"
@@ -988,15 +988,19 @@ es-abstract@^1.19.0, es-abstract@^1.20.4, es-abstract@^1.21.2, es-abstract@^1.21
     which-typed-array "^1.1.10"
 
 es-iterator-helpers@^1.0.12:
-  version "1.0.12"
-  resolved "https://registry.yarnpkg.com/es-iterator-helpers/-/es-iterator-helpers-1.0.12.tgz#272f7270f270f4d63dd8aa718228ffa901fd086e"
-  integrity sha512-T6Ldv67RYULYtZ1k1omngDTVQSTVNX/ZSjDiwlw0PMokhy8kq2LFElleaEjpvlSaXh9ugJ4zrBgbQ7L+Bjdm3Q==
+  version "1.0.13"
+  resolved "https://registry.yarnpkg.com/es-iterator-helpers/-/es-iterator-helpers-1.0.13.tgz#72101046ffc19baf9996adc70e6177a26e6e8084"
+  integrity sha512-LK3VGwzvaPWobO8xzXXGRUOGw8Dcjyfk62CsY/wfHN75CwsJPbuypOYJxK6g5RyEL8YDjIWcl6jgd8foO6mmrA==
   dependencies:
     asynciterator.prototype "^1.0.0"
+    call-bind "^1.0.2"
+    define-properties "^1.2.0"
     es-abstract "^1.21.3"
     es-set-tostringtag "^2.0.1"
     function-bind "^1.1.1"
+    get-intrinsic "^1.2.1"
     globalthis "^1.0.3"
+    has-property-descriptors "^1.0.0"
     has-proto "^1.0.1"
     has-symbols "^1.0.3"
     internal-slot "^1.0.5"
@@ -2656,9 +2660,9 @@ rc-util@^5.0.1, rc-util@^5.0.6, rc-util@^5.15.0, rc-util@^5.16.0, rc-util@^5.16.
     react-is "^16.12.0"
 
 rc-virtual-list@^3.4.13, rc-virtual-list@^3.5.1:
-  version "3.6.0"
-  resolved "https://registry.yarnpkg.com/rc-virtual-list/-/rc-virtual-list-3.6.0.tgz#f55d34a9aa3e652585a6440b27980ecb01ce8358"
-  integrity sha512-Pf/QuBq9FRaHVxxEe/JSYG0nPrQ9KjelpfKlK8M56ZOzcLjuIOQzaRiwAStNOssCHba8yW6TfpLs8aUye25Tyw==
+  version "3.9.0"
+  resolved "https://registry.yarnpkg.com/rc-virtual-list/-/rc-virtual-list-3.9.0.tgz#b8c8926c58c1738e06f0419edcead6499dcfecca"
+  integrity sha512-n19PbkUJbnvchWtpxJXUM+hiaEDX6nG5RVwap/8z3Q5RRHiZMotcBWN/LGOFb1vgUe1OZ748j3McLOc9p5CxmQ==
   dependencies:
     "@babel/runtime" "^7.20.0"
     classnames "^2.2.6"
